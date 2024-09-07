@@ -1,8 +1,0 @@
-@media print {
-    body {
-        font-family: Arial, sans-serif;
-    }
-    .hidden {
-        display: none;
-    }
-}
